@@ -1,0 +1,24 @@
+1. Belum ada perubahan pada configurasi
+2. Silahkan Ubah system/core/Config  -->line 60 = sesuaikan nama aplikasi
+
+-------------------------------------------------
+
+REVIEW HASIL RAPAT 14 SEPTEMBER 2018 (TO DO LIST):
+1. Inisialisasi Barang :
+a. Tombol inisialisasi kategori
+2. Barang masuk
+a. Field barcode
+b. Setelah scan, admin input kuantitas
+c. Definitif/Transit
+d. Administrator
+3. Barang keluar (seperti menu transaksi tapi ada definitif dan transit)
+4. Daftar Belanja
+5. Kartu barang (sumber data hanya dari definitif)
+
+------------------------------------------------
+1. Laporan transaksi baru autofokus setelah pilih unit
+2. Pencarian transaksi bisa berdasarkan tanggal
+3. Ada field untuk unit kerja sehingga bisa print transaksi per unit kerja dan mengetahui anggaran setiap unit kerja
+4. Cetak kartu sesuaikan dengan format
+5. Ada fitur export to excel
+6. Error : Jumlah barang transit yang diinput ke database malah 2x lipat
